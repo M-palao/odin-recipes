@@ -1,0 +1,2 @@
+Practice project as an introduction to HTML and CSS in the near future. Project will showcase a number of cooking recipes as a website, testing the 
+student's skills with HTML. At the end of this project, the student should be able to show skill in HTML basics and follow best practices with Git and Github.
